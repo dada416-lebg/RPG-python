@@ -55,10 +55,6 @@ Le Village agit comme le menu principal du jeu. Vous pouvez y choisir votre proc
 
 À chaque retour au Village, vos points de vie seront entièrement restaurés. Si vous perdez contre un ennemi, vous serez automatiquement renvoyé ici.
 
-<figure align="center">
-<img src="https://i.imgur.com/k2VnjPs.jpg" alt="Menu du Jeu" title="Menu du Jeu">
-<figcaption align="center"><em style="font-size: small">Menu du Jeu</em></figcaption>
-</figure>
 
 <hr>
 
@@ -72,12 +68,7 @@ Les combats sont au tour par tour. Vous pouvez choisir entre utiliser une potion
 
 Lorsque vous attaquez, c'est ensuite au tour de l'ennemi de vous attaquer. L'utilisation de potions pendant le combat ne consomme pas de tour.
 
-<figure align="center">
-<img src="https://i.imgur.com/h5O0JYV.gif" alt="Combat contre un sbire" title="Combat contre un sbire">
-<figcaption align="center"><em style="font-size: small">Exemple de Combat</em></figcaption>
-</figure>
-<br>
-<br>
+
 
 Une fois l'ennemi vaincu, vous aurez le choix de continuer l'entraînement (pour initier un autre combat) ou de retourner au village pour restaurer vos points de vie.
 
@@ -93,10 +84,6 @@ Les potions sont utiles si vous voulez prolonger votre entraînement ou si vous 
 
 Chaque potion restaure 20 % de vos points de vie maximum, et vous pouvez transporter un maximum de 10 potions à la fois.
 
-<figure align="center">
-<img src="https://i.imgur.com/59DnsM4.jpg" alt="Magasin" title="Magasin">
-<figcaption align="center"><em style="font-size: small">Magasin</em></figcaption>
-</figure>
 
 <hr>
 
@@ -106,19 +93,10 @@ Chaque potion restaure 20 % de vos points de vie maximum, et vous pouvez transpo
 
 Au fil du jeu, vous accumulerez des points de statistiques à dépenser pour améliorer vos attributs. Cette section vous permet de les répartir entre les 4 attributs mentionnés dans la section [Début du Jeu](#début-du-jeu) et de consulter vos statistiques actuelles.
 
-<figure align="center">
-<img src="https://i.imgur.com/gRkZHDc.jpg" alt="Statistiques du joueur" title="Statistiques du joueur">
-<figcaption align="center"><em style="font-size: small">Statistiques du joueur</em></figcaption>
-</figure>
-<br>
-<br>
+
 
 Chaque attribut atteint son niveau maximum à 10.
 
-<figure align="center">
-<img src="https://i.imgur.com/yqlwbTj.jpg" alt="Dépense des points" title="Dépense des points">
-<figcaption align="center"><em style="font-size: small">Dépense des points</em></figcaption>
-</figure>
 
 <hr>
 
