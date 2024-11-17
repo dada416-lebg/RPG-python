@@ -113,9 +113,4 @@ Le jeu contient quatre boss :
 
 Les mécaniques de combat contre les boss sont les mêmes que contre les sbires, mais les boss sont beaucoup plus puissants. Si vous n'êtes pas suffisamment entraîné, il sera presque impossible de les vaincre.
 
-<figure align="center">
-<img src="https://i.imgur.com/xiVDp1T.jpg" alt="Combat contre un boss sans entraînement" title="Combat contre un boss sans entraînement">
-<figcaption align="center"><em style="font-size: small">Combat sans entraînement</em></figcaption>
-</figure>
 
-<hr>
